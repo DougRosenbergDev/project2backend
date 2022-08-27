@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TigerPhone", "TigerPhone\TigerPhone.csproj", "{7BF1E453-88A5-40DA-915C-1C699B3C28B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BF1E453-88A5-40DA-915C-1C699B3C28B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF1E453-88A5-40DA-915C-1C699B3C28B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF1E453-88A5-40DA-915C-1C699B3C28B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF1E453-88A5-40DA-915C-1C699B3C28B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DF46202-557B-476A-AEBD-EA5D8F2BC785}
+	EndGlobalSection
+EndGlobal
